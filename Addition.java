@@ -13,7 +13,7 @@ public class Addition {
         int a=10;
         int b=20;
 
-        //some changes
+        //some changes happens
 
         System.out.println(a+b);
     }

@@ -1,7 +1,9 @@
 package practicegit;
 
 public class Addition {
-
+    public void substraction(){
+        System.out.print("sub");
+    }
 
 
     public static void main(String[] args) {

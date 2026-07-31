@@ -5,7 +5,9 @@ public class Addition {
         System.out.print("sub");
     }
 
-
+    public void multiplication(){
+        System.out.print("Multiplication");
+    }
     public static void main(String[] args) {
 
         int a=10;
